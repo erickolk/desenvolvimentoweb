@@ -1,0 +1,18 @@
+.links {
+
+    text-decoration: none;
+    color: blue;
+    
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    border: 2px solid #bc2035;
+
+}
+
+.links:active{
+    background: #bc2035;
+    color: white;
+}
+

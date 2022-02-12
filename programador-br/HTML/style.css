@@ -1,0 +1,42 @@
+p {
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+
+#Titulo{
+    color:yellow;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#home {
+    text-decoration: none;
+    padding: 10px ;
+    border-radius: 8px;
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0px;
+}
+
+.lista {
+    color: yellow;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+body {
+    background: linear-gradient(55deg, #007ac1, #67daff);
+}
+
+.saudacao{
+    color: whitesmoke;
+}
+
+ol {
+    color: whitesmoke;
+}
+ul {
+    color: whitesmoke;
+}
+h2{
+    color: yellow;
+}
