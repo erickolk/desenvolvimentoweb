@@ -1,0 +1,78 @@
+#cartao {
+  width: 400px;
+  height: 200px;
+  background: url("background.png");
+  background-color: antiquewhite;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 8px 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-position-x: right;
+  border-radius: 14px;
+}
+
+#nome {
+  font-family: Oswald;
+  color: rgba(15, 15, 151, 0.85);
+  margin-top: 0;
+}
+
+#instagram {
+  color: black;
+}
+
+#twitter {
+}
+
+#youtube {
+  padding-left: 0px;
+}
+
+#lista {
+  list-style: none;
+  padding: 0;
+}
+#lista li {
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+#lista li i {
+  margin-right: 10px;
+  font-size: 1.6rem;
+  padding: 4px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+#instagram i {
+  background-color: rgb(226, 45, 32);
+}
+
+#twitter i {
+  background-color: rgb(32, 132, 226);
+}
+
+#youtube i {
+  background-color: #0e76a8;
+}
+
+.linkinsta {
+  color: rgb(226, 45, 32);
+}
+
+.linktwitter {
+  color: rgb(32, 132, 226);
+}
+
+.linkyt {
+  color: #0e76a8;
+}
+
+body {
+  background-color: black;
+}
+a {
+  text-decoration: none;
+}
